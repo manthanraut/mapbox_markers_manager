@@ -5,7 +5,7 @@ After Google Changing Price List and be High expensive many developers
 looked up for new solutions ,free open source or cheap maps 
 *so i thought to make a new series with the name google maps alternative
 this series for every google maps developer or any web developers (specially for php developers) 
-and this is the first tutorial on this series [watch our video](https://youtu.be/) 
+and this is the first tutorial on this series [watch our video](https://www.youtube.com/watch?v=NTxtvugtQm0) 
 in this tutorial you will learn how to create a mapbox map with dynamic markers and how to save it in database
 you can download the demo and watch the tutorial to understand line by line how it's works
 ---

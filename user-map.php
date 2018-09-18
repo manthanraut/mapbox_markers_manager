@@ -101,7 +101,7 @@ include 'locations_model.php';
             // Listen for the `result` event from the MapboxGeocoder that is triggered when a user
             // makes a selection and add a symbol that matches the result.
             geocoder.on('result', function(ev) {
-             //   alert("aaaaa");
+                alert("aaaaa");
                 console.log(ev.result.center);
 
             });
@@ -168,7 +168,6 @@ include 'locations_model.php';
 
     </script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 
 <?php
