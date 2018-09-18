@@ -7,7 +7,6 @@
 </head>
 <body>
 <style>
-
     /* Optional: Makes the sample page fill the window. */
     html, body {
         height: 100%;
