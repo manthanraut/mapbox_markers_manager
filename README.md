@@ -10,9 +10,14 @@ in this tutorial you will learn how to create a mapbox map with dynamic markers 
 you can download the demo and watch the tutorial to understand line by line how it's works
 ---
 
+## Demo Link
+
+
+http://webeasystep.com/demo/mapbox_markers_manager/user-map.php
+
 ## Installation Steps
 
-You’ll start by editing this README file to learn how to edit a file in Bitbucket.
+You�ll start by editing this README file to learn how to edit a file in Bitbucket.
 
 1. Download **Source Code** extract in the htdocs.
 2. Create new database with name **test**.
@@ -25,3 +30,8 @@ You’ll start by editing this README file to learn how to edit a file in Bitbuc
 ---
 Now if you have more questions, don't hesitate go to my blog and you can leave a comment.
  You can [google maps alternative](http://webeasystep.com/),
+ 
+ 
+ ## Tutorial link
+ 
+ https://www.youtube.com/watch?v=NTxtvugtQm0
